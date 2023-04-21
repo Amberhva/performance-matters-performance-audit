@@ -4,14 +4,18 @@
 
 Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
-## Titel Website
+## Body & Fit
+Ik heb de website Body & Fit getest. Ik heb deze website getest op 20-04-2023 omdat ik zelf vaak gebruik maak van de website, en ik ook vrienden heb die er vaak gebruik van maken. Dus ik was erg benieuwd wat de resultaten waren van Body & Fit.
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+## URL naar Body & Fit
+[Body & Fit - Homepagina](https://www.bodyandfit.com/nl-nl?gclsrc=aw.ds&&gclid=CjwKCAjw6IiiBhAOEiwALNqncSEsow_qArDm0YCKNFntjJBP45cAOMyDH-d7OkvZfJ4WmRmvAj4U0hoCcq0QAvD_BwE&gclsrc=aw.ds)
 
-Toon een screenshot van de performance test.
+![image](https://user-images.githubusercontent.com/112861033/233570986-81c51fcf-053a-4746-b5ec-90645370ecbc.png)
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+## Perfomance test
+Nadat ik de website van Body & Fit had getest, waren de resultaten niet zo heel goed. Body & Fit scoort op 1 metric groen. De rest zijn rood of oranje. In de Wiki ga ik dieper in op hoe Body & Fit hun performance zou kunnen verbeteren.
 
+![image](https://user-images.githubusercontent.com/112861033/233571350-adaea426-bb12-4fa7-a053-601da94004ea.png)
 
 ## Licentie
 
